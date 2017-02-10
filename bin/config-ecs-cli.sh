@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Download, Install and Configure ecs-cli
 
-#set the environment variables
+#Set the environment variables
 source ./bin/env.sh
 
 #Delete old ecs-cli config file if it exists
