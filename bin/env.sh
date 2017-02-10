@@ -10,7 +10,7 @@ export AWS_KEY_PAIR=andy-ecs-west
 export DOCKER_REPO=acunning1
 export DOCKER_WEB_IMAGE=django-web
 echo "##############################"
-echo  Environment Summary
+echo  Environmental Summary
 echo "##############################"
 echo ECS_CLUSTER: $ECS_CLUSTER
 echo ECS_PROJECT: $ECS_PROJECT
