@@ -6,11 +6,11 @@ export ECS_PORT=8000
 export ECS_CLUSTER_SIZE=2
 export ECS_INSTANCE_TYPE=t2.large
 export AWS_REGION=us-west-2
-export AWS_KEY_PAIR=dan-ecs-west
-export DOCKER_REPO=pdxdiver
+export AWS_KEY_PAIR=andy-ecs-west
+export DOCKER_REPO=acunning1
 export DOCKER_WEB_IMAGE=django-web
 echo "##############################"
-echo  Your Environement
+echo  Environment Summary
 echo "##############################"
 echo ECS_CLUSTER: $ECS_CLUSTER
 echo ECS_PROJECT: $ECS_PROJECT
