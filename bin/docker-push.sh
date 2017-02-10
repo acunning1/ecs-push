@@ -1,5 +1,5 @@
 #! /bin/bash
-# Tag, Push and Deploy only if it's not a pull request
+# Tag, push and deploy only if it's not a pull request
 # Comment
 source ./bin/env.sh
 
